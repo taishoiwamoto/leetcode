@@ -10,6 +10,6 @@ class Solution:
 solution = Solution()
 
 # Call the isPalindrome method using the instance
-print(solution.isPalindrome(121))
+print(solution.isPalindrome(222))
 print(solution.isPalindrome(-121))
 print(solution.isPalindrome(10))
