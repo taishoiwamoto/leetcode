@@ -21,5 +21,3 @@ def remove_duplicates(nums)
   # テストケース
   puts remove_duplicates([1,1,2])  # 出力: 2
   puts remove_duplicates([0,0,1,1,1,2,2,3,3,4])  # 出力: 5
-  
-  [0, 1, 2, 3, 4, 2, 2, 3, 3, 4]
